@@ -17,7 +17,7 @@ class LuciferMoringstar(object):
 
 🏷️ My Channel : [FILM CUBE](https://t.me/filmcubes)
 
-🗣️ My Support : [Any Doubt](t.me/howtodoyt)"""
+🗣️ My Support : [Any Doubt](https://t.me/ALKR_bot)"""
 
     FILE_CAPTIONS = """Hello 👋 {mention}\n\n📁Title {title}\n\n🔘Size {size}"""
 
