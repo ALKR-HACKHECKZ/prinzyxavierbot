@@ -15,7 +15,7 @@ class LuciferMoringstar(object):
 
 📺 My Youtube : [Click Here](https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA)
 
-🏷️ My Updates : [HOW TO DO](t.me/HTDGROUPFORMOVIES)
+🏷️ My Channel : [HOW TO DO](t.me/HTDGROUPFORMOVIES)
 
 🗣️ My Support : [Any Doubt](t.me/howtodoyt)"""
 
