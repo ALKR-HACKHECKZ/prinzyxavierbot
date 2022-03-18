@@ -13,7 +13,7 @@ class LuciferMoringstar(object):
 
 📦 My Source : [Click Here](https://t.me/princysupportgp)
 
-📺 My Youtube : [Ckick Here](https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA)
+📺 My Youtube : [Click Here](https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA)
 
 🏷️ My Updates : [HOW TO DO](t.me/HTDGROUPFORMOVIES)
 
