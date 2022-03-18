@@ -21,7 +21,7 @@ async def start_message(bot, message):
              InlineKeyboardButton("😎 About", callback_data="about") 
              ],[
              InlineKeyboardButton("🗳 Deploy", url="https://t.me/ALKR_bot"),
-             InlineKeyboardButton("🤖 Support", url="https://t.me/HTDGROUPFORMOVIES")
+             InlineKeyboardButton("🤖 Support", url="https://t.me/princysupportgp")
              ]]
         else:
             buttons = [[
