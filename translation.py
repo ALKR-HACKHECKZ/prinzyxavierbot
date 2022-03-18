@@ -11,7 +11,7 @@ class LuciferMoringstar(object):
 
 🧑 My Creator : {dev_name}
 
-📦 My Source : [Click Here](https://github.com/bossstory/LuciferMoringstar-Robot)
+📦 My Source : [Click Here](https://t.me/princysupportgp)
 
 📺 My Youtube : [Ckick Here](https://www.youtube.com/channel/UCohk_mpuW8SpgZMyOzRdKcA)
 
